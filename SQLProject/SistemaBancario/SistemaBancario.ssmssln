@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SistemaBancario", "SistemaBancario\SistemaBancario.ssmssqlproj", "{FA36EE38-4C7A-4150-9231-3E32A3B0A856}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "StoreProcedures", "StoreProcedures\StoreProcedures.ssmssqlproj", "{1EF58434-E390-46C4-9B96-1ED040016B24}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Triggers", "Triggers\Triggers.ssmssqlproj", "{87F1FB03-E498-43C9-8525-263D041EDA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA36EE38-4C7A-4150-9231-3E32A3B0A856}.Default|Default.ActiveCfg = Default
+		{80883F07-B9A9-4C89-AA41-E36D7E67B921}.Default|Default.ActiveCfg = Default
+		{1EF58434-E390-46C4-9B96-1ED040016B24}.Default|Default.ActiveCfg = Default
+		{87F1FB03-E498-43C9-8525-263D041EDA49}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,219 @@
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe.config
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.pdb
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form1.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Properties.Resources.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.exe
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.pdb
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Clave.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Dni.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Monto.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Nro_Documento.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Proceder.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TopBar.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Base.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Disponible.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Cuotas.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Retiros.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Tipo.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Moneda.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoMoneda.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Conversion.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroTarjeta.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.CobroGiros.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Empresa.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroContrato.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Servicios.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroCuenta.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Tarjetas.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Transferencias.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoCuenta.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Depositos.resources
+C:\Users\Pablo\Desktop\Librerias\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form2.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe.config
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.pdb
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Clave.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Conversion.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Disponible.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Dni.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Empresa.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroContrato.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroCuenta.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoCuenta.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoMoneda.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroTarjeta.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Proceder.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Tipo.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TopBar.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form2.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.CobroGiros.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Cuotas.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form1.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Monto.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Nro_Documento.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Base.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Depositos.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Moneda.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Retiros.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Servicios.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Tarjetas.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Transferencias.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.exe
+C:\Users\Usuario\Desktop\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.pdb
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe.config
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.exe
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.pdb
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.pdb
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Clave.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Conversion.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Disponible.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Dni.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Empresa.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroContrato.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroCuenta.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoCuenta.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoMoneda.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroTarjeta.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Proceder.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Tipo.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TopBar.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form2.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.CobroGiros.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Cuotas.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form1.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Monto.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Nro_Documento.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Base.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Depositos.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Moneda.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Retiros.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Servicios.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Tarjetas.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Transferencias.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Properties.Resources.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.GenerateResource.Cache
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Precios.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe.config
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.pdb
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Clave.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Conversion.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Disponible.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Dni.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Empresa.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroContrato.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroCuenta.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Precios.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoCuenta.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoMoneda.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroTarjeta.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Proceder.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Tipo.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TopBar.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form2.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.CobroGiros.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Cuotas.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form1.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Monto.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Nro_Documento.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Base.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Depositos.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Retiros.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Servicios.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Tarjetas.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Transferencias.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.CopyComplete
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.exe
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.pdb
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Envio_Giros.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-20190605T151939Z-001\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Tipo_de_Cambio.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe.config
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.exe
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.pdb
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.pdb
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Clave.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Conversion.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Disponible.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Dni.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Empresa.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroContrato.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroCuenta.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Precios.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoCuenta.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoMoneda.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroTarjeta.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Proceder.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Tipo.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TopBar.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Envio_Giros.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form2.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.CobroGiros.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Cuotas.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form1.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Monto.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Nro_Documento.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Base.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Depositos.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Tipo_de_Cambio.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Retiros.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Servicios.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Tarjetas.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Transferencias.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Properties.Resources.resources
+C:\Users\Pablo\Google Drive\Sistema\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe.config
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.pdb
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Clave.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Conversion.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Disponible.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Dni.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Empresa.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroContrato.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroCuenta.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Precios.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoCuenta.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TipoMoneda.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.NroTarjeta.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Proceder.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.Tipo.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Controles.TopBar.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Envio_Giros.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form2.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.CobroGiros.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Cuotas.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Form1.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Monto.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Nro_Documento.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Base.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Depositos.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Tipo_de_Cambio.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Retiros.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Servicios.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Tarjetas.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Froms_opciones.Transferencias.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.CopyComplete
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.exe
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.pdb
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Botones.BTRetiros.resources
+C:\Users\Usuario\Downloads\Sistema_Bancario-V2-20190610T135251Z-001\Sistema_Bancario-V2\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.Login.resources

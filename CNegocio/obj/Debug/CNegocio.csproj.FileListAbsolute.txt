@@ -1,0 +1,516 @@
+C:\Users\Jean\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\elife\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\elife\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\elife\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\elife\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\elife\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\elife\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\elife\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\elife\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\elife\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\elife\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\elife\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\kat\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Usuario\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Saurom Lamderth\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\bin\Debug\CNegocio.dll
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\bin\Debug\CDatos.dll
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\bin\Debug\Modelos.dll
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\bin\Debug\CDatos.pdb
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\bin\Debug\Modelos.pdb
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\obj\Debug\CNegocio.dll
+E:\Documents\cursos\VI semestre\distribuidas\SimuladorBanco\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Usuario\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Usuario\Downloads\Simulador-master\Simulador-master\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\bin\Debug\CDatos.dll
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\bin\Debug\Modelos.dll
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador4\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\Simulador\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\ASUS\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\sim2\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\elife\Desktop\ISUR\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Pablo\Desktop\SistemaBancario\Simulador 2\Nueva carpeta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\bin\Debug\CDatos.dll
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\bin\Debug\Modelos.dll
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\ASUS\Source\Repos\Simulador3\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\bin\Debug\CDatos.dll
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\bin\Debug\Modelos.dll
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\elife\Desktop\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Usuario\Desktop\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Usuario\Desktop\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Usuario\Desktop\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Usuario\Desktop\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Usuario\Desktop\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Usuario\Desktop\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Usuario\Desktop\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Usuario\Desktop\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Usuario\Source\Repos\Simulador2\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Usuario\Desktop\Sim2\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Pablo\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\X\Desktop\Projects\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\S4\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\s5\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\s7\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jordan\Source\Repos\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\bin\Debug\CDatos.dll
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\bin\Debug\Modelos.dll
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador14\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\bin\Debug\CDatos.dll
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\bin\Debug\Modelos.dll
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador17\CNegocio\obj\Debug\CNegocio.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\bin\Debug\CNegocio.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\bin\Debug\CNegocio.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\bin\Debug\CDatos.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\bin\Debug\Modelos.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\bin\Debug\CDatos.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\bin\Debug\Modelos.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\obj\Debug\CNegocio.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\s7\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\bin\Debug\CNegocio.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\bin\Debug\CNegocio.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\bin\Debug\CDatos.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\bin\Debug\Modelos.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\bin\Debug\CDatos.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\bin\Debug\Modelos.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\obj\Debug\CNegocio.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador2\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\s8\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z1\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z2\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z3\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z4\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z6\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\bin\Debug\CNegocio.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\bin\Debug\CNegocio.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\bin\Debug\CDatos.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\bin\Debug\Modelos.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\bin\Debug\CDatos.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\bin\Debug\Modelos.pdb
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\obj\Debug\CNegocio.dll
+E:\Documents\cursos\VI semestre\distribuidas\simulador3\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\bin\Debug\CDatos.dll
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\bin\Debug\Modelos.dll
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador22\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z9\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\z9\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\z9\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z9\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\bin\Debug\CDatos.dll
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\bin\Debug\Modelos.dll
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador24\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\bin\Debug\CDatos.dll
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\bin\Debug\Modelos.dll
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\RithardLL\Source\Repos\Simulador25\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Pablo\Source\Repos\Simulador6\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\bin\Debug\CDatos.dll
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\bin\Debug\Modelos.dll
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\elife\Desktop\Others\ISUR\Bancario\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z3\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\katva\Source\Repos\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.dll
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\bin\Debug\Modelos.pdb
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Jean\Desktop\z4\JuandiegoAcosta\Simulador\CNegocio\obj\Debug\CNegocio.pdb
+D:\Simulador-master\CNegocio\bin\Debug\CNegocio.dll
+D:\Simulador-master\CNegocio\bin\Debug\CNegocio.pdb
+D:\Simulador-master\CNegocio\bin\Debug\CDatos.dll
+D:\Simulador-master\CNegocio\bin\Debug\Modelos.dll
+D:\Simulador-master\CNegocio\bin\Debug\CDatos.pdb
+D:\Simulador-master\CNegocio\bin\Debug\Modelos.pdb
+D:\Simulador-master\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+D:\Simulador-master\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+D:\Simulador-master\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+D:\Simulador-master\CNegocio\obj\Debug\CNegocio.dll
+D:\Simulador-master\CNegocio\obj\Debug\CNegocio.pdb
